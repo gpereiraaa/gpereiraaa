@@ -2,11 +2,10 @@
 
 Estudante de Desenvolvimento de Sistemas e formado em Redes de Computadores pelo Senai.
 
-<a href="https://www.linkedin.com/in/gustavo-pereira-dev-redes" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain-wordmark.svg" /></a>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/gpereiraaa/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/gustavo-pereira-dev-redes)
 
-<a href="https://github.com/gpereiraaa/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /></a>
-
-
+##
 <div>
 <a href="https://github.com/gpereiraaa">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpereiraaa&layout=compact&langs_count=7&theme=dracula"/>
