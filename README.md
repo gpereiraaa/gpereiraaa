@@ -4,13 +4,18 @@ Estudante de Desenvolvimento de Sistemas e formado em Redes de Computadores pelo
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/gpereiraaa/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/gustavo-pereira-dev-redes)
-
+<!--
 ##
 <div>
 <a href="https://github.com/gpereiraaa">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpereiraaa&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gpereiraaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+-->
+##
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gpereiraaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=gpereiraaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gpereiraaa&theme=dark&hide_border=false)<br/>
 
 #
 
@@ -21,3 +26,8 @@ Estudante de Desenvolvimento de Sistemas e formado em Redes de Computadores pelo
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gpereiraaa/gpereiraaa/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+
+<!--
+---
+[![](https://visitcount.itsvg.in/api?id=gpereiraaa&icon=0&color=0)](https://visitcount.itsvg.in)-->
