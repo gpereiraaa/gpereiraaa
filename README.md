@@ -11,10 +11,12 @@ Estudante de Desenvolvimento de Sistemas e formado em Redes de Computadores pelo
 </div>
 -->
 ##
+
 <div>
 <a href="https://github.com/gpereiraaa">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpereiraaa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 ![](https://github-readme-stats.vercel.app/api?username=gpereiraaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=gpereiraaa&theme=dark&hide_border=false)<br/>
 
