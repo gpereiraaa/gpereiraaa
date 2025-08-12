@@ -6,15 +6,16 @@ Estudante de Desenvolvimento de Sistemas e formado em Redes de Computadores pelo
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/gustavo-pereira-dev-redes)
 <!--
 ##
-<div>
-<a href="https://github.com/gpereiraaa">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpereiraaa&layout=compact&langs_count=7&theme=dracula"/>
+
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gpereiraaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 -->
 ##
+<div>
+<a href="https://github.com/gpereiraaa">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpereiraaa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 ![](https://github-readme-stats.vercel.app/api?username=gpereiraaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gpereiraaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=gpereiraaa&theme=dark&hide_border=false)<br/>
 
 
