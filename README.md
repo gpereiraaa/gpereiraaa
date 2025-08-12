@@ -1,6 +1,6 @@
-# Gustavo Pereira
+# Olá meu nome é Gustavo Pereira
 
-Estudante de Desenvolvimento de Sistemas e formado em Redes de Computadores pelo Senai.
+Sou um estudante de Desenvolvimento de Sistemas e formado em Redes de Computadores pelo Senai.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/gpereiraaa/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/gustavo-pereira-dev-redes)
