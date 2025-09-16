@@ -14,6 +14,7 @@
 
 ##
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpereiraaa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpereiraaa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://nirzak-streak-stats.vercel.app/?user=gpereiraaa&theme=dark&hide_border=false)<br/>
