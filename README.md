@@ -14,8 +14,6 @@
 
 ##
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gpereiraaa&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpereiraaa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpereiraaa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://nirzak-streak-stats.vercel.app/?user=gpereiraaa&theme=dark&hide_border=false)<br/>
