@@ -1,6 +1,6 @@
 # 👋 Olá meu nome é Gustavo Pereira
 
-🎓 Sou formado em Redes de Computadores pelo SENAI Jandira e atualmente sigo expandindo meus conhecimentos em tecnologia:<br><br>📘 Técnico em Desenvolvimento de Sistemas – SENAI Jandira (cursando)<br><br>🎓 Análise e Desenvolvimento de Sistemas – FATEC Carapicuíba (cursando)<br><br>💻 Tenho grande interesse em desenvolvimento de software, infraestrutura de TI e cloud computing, buscando sempre unir prática e teoria para evoluir como profissional.<br>🚀 Meu objetivo é me tornar um desenvolvedor completo, com sólida base em sistemas, redes e programação.
+🎓 Sou formado em Redes de Computadores pelo SENAI Jandira e atualmente sigo expandindo meus conhecimentos em tecnologia:<br><br>📘 Técnico em Desenvolvimento de Sistemas – SENAI Jandira (cursando)<br><br>🎓 Engenharia de Software – Estácio (cursando)<br><br>💻 Tenho grande interesse em desenvolvimento de software, infraestrutura de TI e cloud computing, buscando sempre unir prática e teoria para evoluir como profissional.<br>🚀 Meu objetivo é me tornar um desenvolvedor completo, com sólida base em sistemas, redes e programação.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/gpereiraaa/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/gustavo-pereira-dev-redes)
